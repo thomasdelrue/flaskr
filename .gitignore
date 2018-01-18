@@ -1,3 +1,4 @@
 .spyproject/
 flaskr/__pycache__/
 flaskr.egg-info/
+flaskr/flaskr.db
